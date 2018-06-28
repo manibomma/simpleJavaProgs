@@ -1,5 +1,14 @@
 enum Beer {
-	KF, RC, FO;
+	KF, RC, FO;  // List of constants should be on first line
+	
+	// Enum can have main() method. So enum can be invoked directly from cmd prompt
+	/*
+	public static void main(String[] args) {
+		System.out.println("Enum's main");
+	}
+	*/
+	
+	// CORONA, BUDWEISER; // List constants should be on first line
 }
 
 class EnumSample {

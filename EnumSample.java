@@ -8,7 +8,7 @@ enum Beer {
 	}
 	*/
 	
-	// CORONA, BUDWEISER; // List constants should be on first line
+	// CORONA, BUDWEISER; // Not accepted! List constants should be on first line
 }
 
 class EnumSample {
